@@ -1,5 +1,5 @@
-local lusi = WindUI:CreateWindow({
-Title = "MOJO HUB",
-Icon = "icon-bot",
-Author = "MojoWasTaken"
+local Window = WindUI:CreateWindow({
+    Title = "My Super Hub",
+    Icon = "door-open", -- lucide icon. optional
+    Author = "by .ftgs and .ftgs", -- optional
 })
